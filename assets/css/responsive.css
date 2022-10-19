@@ -1,0 +1,16 @@
+@media (max-width: 455px) {
+  .container {
+    padding-top: 25px;
+  }
+
+  .dice-1 {
+    position: absolute;
+    top: -40px;
+    right: 125px;
+  }
+  .dice-2 {
+    position: absolute;
+    top: -25px;
+    right: 75px;
+  }
+}

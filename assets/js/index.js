@@ -17,7 +17,7 @@ function displayTime() {
       session.innerHTML = 'AM';
   }
 
-  if(hrs > 12){
+  if(hrs > 12) {
       hrs = hrs - 12;
   }
 
